@@ -1,1 +1,2 @@
-# EXCERCISES-EKPA
+# “Example of README.md”
+## Markdown exercise
